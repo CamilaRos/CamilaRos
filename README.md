@@ -17,7 +17,7 @@ Here are some technologies and languages I work with:
 <br>
 <br>
 
-You can contact me through email on LinkedIn. Let's stay connected! 😄
+You can contact me through email or LinkedIn. Let's stay connected! 😄
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyse.camila@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-rosa-ba0b839a/)
